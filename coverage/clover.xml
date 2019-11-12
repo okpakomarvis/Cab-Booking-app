@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1573404468223" clover="3.2.0">
+  <project timestamp="1573404468223" name="All files">
+    <metrics statements="70" coveredstatements="64" conditionals="20" coveredconditionals="10" methods="2" coveredmethods="2" elements="92" coveredelements="76" complexity="0" loc="70" ncloc="70" packages="4" files="10" classes="10"/>
+    <package name="dist.models">
+      <metrics statements="16" coveredstatements="16" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="booking.js" path="C:\Users\9480M\Desktop\nodejs-programming-challenge\dist\models\booking.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="36" count="1" type="stmt"/>
+      </file>
+      <file name="driverlocation.js" path="C:\Users\9480M\Desktop\nodejs-programming-challenge\dist\models\driverlocation.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+      </file>
+      <file name="drivers.js" path="C:\Users\9480M\Desktop\nodejs-programming-challenge\dist\models\drivers.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="51" count="1" type="stmt"/>
+      </file>
+      <file name="user.js" path="C:\Users\9480M\Desktop\nodejs-programming-challenge\dist\models\user.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="dist.test.model">
+      <metrics statements="19" coveredstatements="16" conditionals="10" coveredconditionals="5" methods="1" coveredmethods="1"/>
+      <file name="distancefunction.js" path="C:\Users\9480M\Desktop\nodejs-programming-challenge\dist\test\model\distancefunction.js">
+        <metrics statements="19" coveredstatements="16" conditionals="10" coveredconditionals="5" methods="1" coveredmethods="1"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="cond" truecount="2" falsecount="2"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="13" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="21" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="25" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+        <line num="33" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.models">
+      <metrics statements="16" coveredstatements="16" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="booking.js" path="C:\Users\9480M\Desktop\nodejs-programming-challenge\src\models\booking.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="36" count="1" type="stmt"/>
+      </file>
+      <file name="driverlocation.js" path="C:\Users\9480M\Desktop\nodejs-programming-challenge\src\models\driverlocation.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+      </file>
+      <file name="drivers.js" path="C:\Users\9480M\Desktop\nodejs-programming-challenge\src\models\drivers.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="51" count="1" type="stmt"/>
+      </file>
+      <file name="user.js" path="C:\Users\9480M\Desktop\nodejs-programming-challenge\src\models\user.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.test.model">
+      <metrics statements="19" coveredstatements="16" conditionals="10" coveredconditionals="5" methods="1" coveredmethods="1"/>
+      <file name="distancefunction.js" path="C:\Users\9480M\Desktop\nodejs-programming-challenge\src\test\model\distancefunction.js">
+        <metrics statements="19" coveredstatements="16" conditionals="10" coveredconditionals="5" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="2" type="cond" truecount="2" falsecount="2"/>
+        <line num="3" count="0" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="11" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="17" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="18" count="2" type="stmt"/>
+        <line num="20" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="23" count="2" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>

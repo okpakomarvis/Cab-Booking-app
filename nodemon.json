@@ -1,0 +1,8 @@
+{
+    "env":{
+        "MONGO_USER":"marvis",
+        "MONGO_PASSWORD": "WjKQE7jXOlYp9X3N",
+        "MONGO_DB" : "nodejs-challenge",
+        "JWT": "secret"
+    }
+}

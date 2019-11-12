@@ -1,0 +1,43 @@
+Steps to follow to get the best out of the application and get started;
+
+1) run install to install all node_modules dependencies
+2) run npm start to start the server
+3) go to your favourite browser and insert the local host address http://localhost:3000/graphql to get the graphiql 
+4) run query and mutation to the follow end point;
+    ----- // get all cab bookings and user information
+   query bookings endpoint
+
+    -----//get user past cab Bookings
+	query pastBookings
+
+    -----//request for cab Booking
+	mutation createBooking
+
+    ----// create drivers information
+	mutation createDrivers
+
+    ---- // create drivers Location and upadate the latitude and longitude later
+	mutation createDriverLocation
+
+    -----// create user 
+	mutation createUser
+
+    ----//user login
+    mutation login
+
+    ----//get nearby cab drivers
+	query requestCabNearBy
+
+
+5) login with this email:"tester3@gmail.com", password: "tester" , you create your own user
+
+6) the database is Mongodb,
+
+--------|-----Testing -------
+--------|-------------|------
+1) testing tools are jest , nyc, and Mongodb-memory-server
+2) npm run test and with for the app to install Mongodb-memory-server for testing
+
+------|----Author----------
+------|----Okpako Marvis-------|
+------|----okpakomarvis@gmail.com-------|
